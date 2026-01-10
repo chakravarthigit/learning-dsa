@@ -6,3 +6,6 @@
 
 ### Day 3
 - Learned basic searching (linear search)
+
+### Day 4 
+- Practiced array input and output
