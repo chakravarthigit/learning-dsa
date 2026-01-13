@@ -13,3 +13,6 @@
 - ### Day 5
 - Practiced basic recursion concepts
 
+### Day 6
+- Learned basic sorting (bubble sort)
+
