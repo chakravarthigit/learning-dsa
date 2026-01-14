@@ -16,3 +16,6 @@
 ### Day 6
 - Learned basic sorting (bubble sort)
 
+### Day 7
+- Revised sorting and searching basics
+
