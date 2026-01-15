@@ -19,3 +19,6 @@
 ### Day 7
 - Revised sorting and searching basics
 
+### Day 8
+- Learned basic stack operations
+
