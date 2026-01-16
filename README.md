@@ -22,3 +22,6 @@
 ### Day 8
 - Learned basic stack operations
 
+### Day 9
+- Learned basic queue operations
+
