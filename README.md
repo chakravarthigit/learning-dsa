@@ -28,3 +28,7 @@
 ### Day 9
 - Learned basic queue operations
 
+- ### Day 11
+- Learned basics of linked lists
+
+
