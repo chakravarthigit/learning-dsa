@@ -22,13 +22,17 @@
 ### Day 8
 - Learned basic stack operations
 
-### Day 10
+### Day 9
 - Revised stack and queue concepts
 
-### Day 9
+### Day 10
 - Learned basic queue operations
 
 - ### Day 11
 - Learned basics of linked lists
+
+- ### Day 12
+- Revised linked list operations
+
 
 
