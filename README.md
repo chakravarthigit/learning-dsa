@@ -34,5 +34,8 @@
 - ### Day 12
 - Revised linked list operations
 
+### Day 13
+- Learned basics of trees
+
 
 
