@@ -37,5 +37,8 @@
 ### Day 13
 - Learned basics of trees
 
+### Day 14
+- Revised basic tree concepts
+
 
 
