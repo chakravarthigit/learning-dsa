@@ -40,5 +40,8 @@
 ### Day 14
 - Revised basic tree concepts
 
+### Day 15
+- Learned basics of graphs
+
 
 
