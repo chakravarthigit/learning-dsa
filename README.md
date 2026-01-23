@@ -43,5 +43,7 @@
 ### Day 15
 - Learned basics of graphs
 
+### Day 16
+- Revised basic graph concepts
 
 
