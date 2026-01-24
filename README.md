@@ -46,4 +46,8 @@
 ### Day 16
 - Revised basic graph concepts
 
+### Day 17
+- Practiced basic graph traversal (BFS)
+
+
 
