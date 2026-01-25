@@ -49,5 +49,9 @@
 ### Day 17
 - Practiced basic graph traversal (BFS)
 
+### Day 18
+- Practiced basic graph traversal (DFS)
+
+
 
 
