@@ -52,6 +52,10 @@
 ### Day 18
 - Practiced basic graph traversal (DFS)
 
+### Day 19
+- Learned basics of dynamic programming
+
+
 
 
 
