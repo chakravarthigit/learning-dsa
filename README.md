@@ -55,6 +55,9 @@
 ### Day 19
 - Learned basics of dynamic programming
 
+### Day 20
+- Revised important DSA concepts
+
 
 
 
