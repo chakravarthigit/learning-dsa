@@ -58,6 +58,8 @@
 ### Day 20
 - Revised important DSA concepts
 
+### Day 21
+- Learned basics of hashing
 
 
 
