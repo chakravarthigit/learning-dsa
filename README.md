@@ -61,6 +61,8 @@
 ### Day 21
 - Learned basics of hashing
 
+### Day 22
+- Revised hashing concepts
 
 
 
