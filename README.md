@@ -64,5 +64,8 @@
 ### Day 22
 - Revised hashing concepts
 
+### Day 23
+- Learned basics of dynamic programming
+
 
 
