@@ -67,5 +67,7 @@
 ### Day 23
 - Learned basics of dynamic programming
 
+### Day 24
+- Introduced to DP problem-solving approach
 
 
