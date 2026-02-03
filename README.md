@@ -77,5 +77,7 @@
 ### Day 26
 - Learned basics of greedy algorithms
 
+### Day 27
+- Practiced basic optimization problems
 
 
