@@ -76,11 +76,15 @@
 
 ### Day 26
 - Learned basics of greedy algorithms
-### Day 28
+### Day 27
 - Learned basics of backtracking
 
 
-### Day 27
+### Day 28
 - Practiced basic optimization problems
+- 
+  ### Day 29
+- Revised backtracking concepts
+
 
 
