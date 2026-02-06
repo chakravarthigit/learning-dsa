@@ -86,5 +86,7 @@
   ### Day 29
 - Revised backtracking concepts
 
+### Day 30
+- Completed 30 days of consistent DSA practice
 
 
