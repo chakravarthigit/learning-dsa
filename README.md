@@ -88,5 +88,7 @@
 
 ### Day 30
 - Completed 30 days of consistent DSA practice
+### Day 31
+- Started revision cycle of all DSA topics
 
 
