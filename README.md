@@ -94,3 +94,6 @@
 
 ### Day 32
 - Practiced array and string revision problems
+### Day 33
+- Revised stack and queue problems
+
