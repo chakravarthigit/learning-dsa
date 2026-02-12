@@ -103,3 +103,5 @@
 - Revised tree and graph concepts
 
 
+### Day 36
+- Practiced hashing and map-based problems
