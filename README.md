@@ -105,3 +105,5 @@
 
 ### Day 36
 - Practiced hashing and map-based problems
+### Day 37
+- Revised dynamic programming concepts
