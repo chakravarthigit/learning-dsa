@@ -109,3 +109,6 @@
 - Revised dynamic programming concepts
 ### Day 38
 - Practiced greedy and optimization problems
+
+### Day 39
+- Revised recursion and backtracking problems
