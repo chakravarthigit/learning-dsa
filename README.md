@@ -118,4 +118,6 @@
 
 ## Revison 
 
-#
+### Day 41
+- Practiced mock DSA questions
+
