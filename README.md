@@ -121,3 +121,5 @@
 ### Day 41
 - Practiced mock DSA questions
 
+### Day 42
+- Revised arrays, strings, and hashing
