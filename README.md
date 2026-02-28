@@ -123,7 +123,7 @@
 
 ### Day 42
 - Revised arrays, strings, and hashing
-#
+
 
 
 
